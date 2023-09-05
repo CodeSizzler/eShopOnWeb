@@ -9,8 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 7c991058-cc7c-48b0-baef-66a7e2d8e26d
-  WEBAPP-NAME: az400-codesizzler-gk
-
+  WEBAPP-NAME: az400-cds
 
 jobs:
   #Build, test and publish .net web project in repository
